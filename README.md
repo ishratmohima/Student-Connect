@@ -3,7 +3,7 @@
 ##  Deployed Web Page Address:
 https://ishratmohima.github.io/student-connect/
 
-## Overview (My Perspective)
+## Project Description
 I built **Student Connect** to refine my **React** skills by creating a user-friendly platform where I can add, view, and manage details about my classmates. Each classmate’s profile features their **name**, **favorite food**, and **favorite color**, along with options to **edit** or **delete** the profile. I also implemented **pagination**, **sorting**, and **filtering** in the table view for easy navigation. For an enhanced user experience, I included a **Dark Mode toggle** to switch between light and dark themes.
 
 ---
